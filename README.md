@@ -7,6 +7,7 @@ The Rock Bee (Apia dorsata): Commonly known as Agya Mohal or Hebbenu, it is rega
 Features: They create only one enormous open-air comb, which can extend up to 1 meter in length. They are very protective, defensive, and quite aggressive unless undisturbed, with a peculiar activity pattern based on moonlight nights.
 
 There are two types of Rock Bees:
+    
      1. The Giant Rock Bee (Apis dorsata):
 •	This is the most common type found across India, from the plains to the lower hills.
 •	Size: They are among the largest honey bees in the world with a length of up to 20mm.
