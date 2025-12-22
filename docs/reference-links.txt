@@ -1,0 +1,22 @@
+ROCK BEE COLONY DETECTION & MONITORING – REFERENCES AND LINKS:
+
+Several research studies highlight the importance of using technology for monitoring bee colonies and spreading awareness for conservation.
+1. Ntawuzumunsi et al. (2021) proposed a Self-Powered Smart Beehive Monitoring and Control System using IoT sensors and mobile applications to remotely monitor beehive conditions.
+* This study proves the feasibility of technology-based monitoring systems for bee conservation.
+Link: https://www.mdpi.com/1424-8220/21/10/3522
+
+2. An Intelligent Beehive Monitoring System based on Internet of Things was presented to track real-time colony activity using sensors and cloud platforms. This research demonstrates how digital systems an continuously monitor bee colonies.
+* Link: https://www.sciencedirect.com/science/article/pii/S2772375524001898
+
+3. A study on IoT-Based Beehive Monitoring for real-time monitoring of Apis cerana indica colonies shows how environmental data can be collected and analyzed to support colony health and protection.
+* Link: https://periodicos.uefs.br/index.php/sociobiology/article/view/9352
+
+4. Another research work discusses a Bee Colony Remote Monitoring System using IoT and wireless communication to store and visualize colony data, supporting long-term monitoring and conservation efforts.
+* Link: https://www.mdpi.com/1424-8220/17/1/55
+
+
+5. Bee Sting First Aid and Anaphylaxis Management 
+
+* Source: Mayo Clinic / Red Cross Emergency Guides
+* Link: https://www.mayoclinic.org/first-aid/first-aid-bee-stings/basics/art-20056657 
+* Key Contribution: Medical basis-investigating with the "Medicure" and First-Aid features.
